@@ -1,0 +1,5 @@
+-- When you copy and paste the code in the editor then you have to click on the run button of the code editor
+-- After this there will be several options that are displayed on the terminal like to book a room, cancel the room, total coins collections, search the room by customer name, search customer by room number etc.,
+-- select the option whichever you want.
+-- After that if want to book or checkout or totalcoinscollected etc., operations can be done.
+-- After all click on the number:9 on keyboard to exit from the application. :) That's all.
